@@ -1,0 +1,5 @@
+<!--pages/demo14/demo14.wxml-->
+<view> <!-- 以下是对一个自定义组件的引用 -->
+  <my-header inner-text="Some text">
+    <view>用来替代slot的</view>
+    </my-header></view>
